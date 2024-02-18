@@ -20,7 +20,7 @@ pip install pycaret
    
 2. **Agglomerative Clustering**: Agglomerative clustering is a hierarchical clustering technique that recursively merges the nearest pairs of clusters.
    
-3. **KMeanShift Clustering**: KMeanShift clustering is a density-based clustering algorithm that doesn't require specifying the number of clusters beforehand.
+3. **Spectral Clustering**: Spectral clustering is a technique that uses the eigenvalues of a similarity matrix to reduce the dimensionality of the data before clustering in a lower-dimensional space.
 
 For each clustering technique, the following configurations were experimented with:
 
